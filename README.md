@@ -3,7 +3,7 @@ A fan-built API supplying information about the students of UA High School
 
 # Some Notes
 This API is actively under construction!
-This is server side only.
+This is server side only. For the client side app, visit
 
 
 **Link to project:** https://my-hero-academia-anime.herokuapp.com/
@@ -13,6 +13,8 @@ This is server side only.
 
 Tech used: Node.js, Express
 
+# Documentation:
+fetch(`https://my-hero-academia-anime.herokuapp.com/api/${characterName}`) 
 
 
 # Lessons Learned:
